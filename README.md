@@ -36,5 +36,5 @@ scikit_learn==1.0.2
 NOTES
 -----
 
-- Code related to data preprocessing and empirical copula non-conformity measures is taken from [Messoudi et AL.'s work.](https://github.com/M-Soundouss/CopulaConformalMTR) 
+- Code related to data preprocessing and empirical copula non-conformity measures is taken from [our previous work.](https://github.com/M-Soundouss/CopulaConformalMTR) 
 - Results may slightly vary from presented results in the paper.
