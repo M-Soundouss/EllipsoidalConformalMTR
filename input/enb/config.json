@@ -1,0 +1,17 @@
+{
+    "continuous_variables": [
+        "V-001",
+        "V-002",
+        "V-003",
+        "V-004",
+        "V-005",
+        "V-006",
+        "V-007",
+        "V-008"
+    ],
+    "categorical_variables": [],
+    "targets": [
+        "V-009",
+        "V-010"
+    ]
+}
