@@ -3,7 +3,7 @@
 INTRODUCTION
 ------------
 
-This code is a supplementary material for the paper "Ellipsoidal conformal inference for Multi-Target Regression" accepted in COPA 2022. It includes necessary source code for reproducing synthetic data results, as well as 3 real data set results (other data sets were omitted for size restrictions).
+This code is a supplementary material for the paper ["Ellipsoidal conformal inference for Multi-Target Regression"](https://copa-conference.com/papers/COPA2022_paper_7.pdf) accepted in COPA 2022. It includes necessary source code for reproducing synthetic data results, as well as 3 real data set results (other data sets were omitted for size restrictions).
 
 FOLDERS
 -------
